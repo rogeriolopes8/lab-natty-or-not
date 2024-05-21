@@ -18,13 +18,13 @@ create realistic Epic, a stunning visual photo of a baby | bright | cyberpunk ci
 
 ## 🚀 Resultados
 ChatGPT
-![DALL·E 2024-05-21 15 48 32 - A stunning photo of a baby in a vibrant, neon-lit cyberpunk city  The baby is in a dynamic fighting pose, wearing military-style knee pads  The scene ](https://github.com/rogeriolopes8/lab-natty-or-not/assets/78456881/20f31806-1fef-412d-98a0-6b330f0f6769)
+(https://github.com/rogeriolopes8/lab-natty-or-not/assets/78456881/20f31806-1fef-412d-98a0-6b330f0f6769)
 
 Leornado AI
-![Default_create_realistic_Epic_a_stunning_visual_photo_of_a_bab_1](https://github.com/rogeriolopes8/lab-natty-or-not/assets/78456881/cbdd7ba1-6da3-4a2f-bdfa-0b2cfcf453a3)
+(https://github.com/rogeriolopes8/lab-natty-or-not/assets/78456881/cbdd7ba1-6da3-4a2f-bdfa-0b2cfcf453a3)
 
 Bing
-![_0322ef68-d10c-4fb9-940e-1117fb5fb4c7](https://github.com/rogeriolopes8/lab-natty-or-not/assets/78456881/670130c5-358c-4587-aa1e-2386902e8721)
+(https://github.com/rogeriolopes8/lab-natty-or-not/assets/78456881/670130c5-358c-4587-aa1e-2386902e8721)
 
 
 ## 💭 Reflexão (Opcional)
