@@ -1,48 +1,38 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foi feito um teste em diferentes IAs de criação de imagens.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Gemini : não suporta imagens
+Leornado AI
+Bing
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O script usado nas IAs foi:
+create realistic Epic, a stunning visual photo of a baby | bright | cyberpunk city | neon light | vibrant | full body | main visual | dynamic fighting pose | best quality | lighting, volumetric fog, bioluminescence, volumetric atmosphere, studio trigger Military style knee pads, UHD, HDR, 16K.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+ChatGPT
+![DALL·E 2024-05-21 15 48 32 - A stunning photo of a baby in a vibrant, neon-lit cyberpunk city  The baby is in a dynamic fighting pose, wearing military-style knee pads  The scene ](https://github.com/rogeriolopes8/lab-natty-or-not/assets/78456881/20f31806-1fef-412d-98a0-6b330f0f6769)
+
+Leornado AI
+![Default_create_realistic_Epic_a_stunning_visual_photo_of_a_bab_1](https://github.com/rogeriolopes8/lab-natty-or-not/assets/78456881/cbdd7ba1-6da3-4a2f-bdfa-0b2cfcf453a3)
+
+Bing
+![_0322ef68-d10c-4fb9-940e-1117fb5fb4c7](https://github.com/rogeriolopes8/lab-natty-or-not/assets/78456881/670130c5-358c-4587-aa1e-2386902e8721)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O melhor dos três utilizados para mim foi o "Bing", veio 4 excelentes opções, teve uma opção parecida com a do chatgpt, porém me trouxe mais opções e de um forma mais realista.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+
+
 
 ## Links Interessantes
 
